@@ -1,5 +1,3 @@
-﻿# <a href="https://roadmap.sh/projects/expense-tracker">Expense-Tracker </a>
-
  # <a href="https://roadmap.sh/projects/expense-tracker">🧾 Expense Tracker CLI </a>
 
 A simple command-line Expense Tracker application to help you manage your finances. Add, update, delete, and view expenses, set monthly budgets, and export data to CSV — all from your terminal!
