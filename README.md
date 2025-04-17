@@ -29,8 +29,7 @@ A simple command-line Expense Tracker application to help you manage your financ
 ---
 
 ## 📦 Installation
-
-1. Clone the repository:
+Clone the repository:
 
    ```bash
    git clone https://github.com/ShrooqAyman/Expense-Tracker.git
