@@ -33,7 +33,7 @@ A simple command-line Expense Tracker application to help you manage your financ
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker-cli.git
+   git clone https://github.com/ShrooqAyman/Expense-Tracker.git
    ```
    ```bash
    cd expense-tracker
@@ -48,9 +48,6 @@ A simple command-line Expense Tracker application to help you manage your financ
 - Budget warnings are shown automatically when monthly expenses exceed the set budget.
 
 ## 📁 Project Structure
-bash
-Copy
-Edit
 
 ```bash
 expense-tracker/
@@ -68,7 +65,39 @@ expense-tracker/
 │   ├── expenses.json
 │   ├── budget.json
 │
-├── main.py                  # CLI entry point using argparse
+├── cli.py                  # CLI entry point using argparse
 ├── README.md                # Project documentation
-├── requirements.txt         # Required Python packages
+```
+## Usage
+### Add an Expense
+```bash
+python cli.py add --description "Lunch" --amount 20
+```
+### List Expenses
+```bash
+python cli.py list
+```
+### List by Category
+```bash
+python cli.py list --category Food
+```
+### Delete an Expense
+```bash
+python cli.py delete --id 1
+```
+### Summary (Total)
+```bash
+python cli.py summary
+```
+### Summary (By Month)
+```bash
+python cli.py summary --month 4
+```
+### Set Monthly Budget
+```bash
+python cli.py budget --month 4 --amount 200
+```
+### Export Expenses to CSV
+```bash
+python cli.py export --filename data/expenses_export.csv
 ```
