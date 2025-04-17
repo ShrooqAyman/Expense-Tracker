@@ -1,0 +1,72 @@
+[
+    {
+        "id": 2,
+        "description": "update",
+        "amount": 10.0,
+        "date": "2025-04-16",
+        "category": null
+    },
+    {
+        "id": 3,
+        "description": "yte",
+        "amount": 50.0,
+        "date": "2025-04-16",
+        "category": "kk"
+    },
+    {
+        "id": 4,
+        "description": "hi",
+        "amount": 40.0,
+        "date": "2025-04-16",
+        "category": null
+    },
+    {
+        "id": 5,
+        "description": "first",
+        "amount": 10.0,
+        "date": "2025-04-16",
+        "category": null
+    },
+    {
+        "id": 6,
+        "description": "jjjjj",
+        "amount": 4.0,
+        "date": "2025-04-16",
+        "category": "k"
+    },
+    {
+        "id": 7,
+        "description": "jjjjjjj",
+        "amount": 500.0,
+        "date": "2025-04-16",
+        "category": "l"
+    },
+    {
+        "id": 8,
+        "description": "Lunch",
+        "amount": 20.0,
+        "date": "2025-04-17",
+        "category": null
+    },
+    {
+        "id": 9,
+        "description": "Lunch",
+        "amount": 20.0,
+        "date": "2025-04-17",
+        "category": null
+    },
+    {
+        "id": 10,
+        "description": "Lunch",
+        "amount": 20.0,
+        "date": "2025-04-17",
+        "category": null
+    },
+    {
+        "id": 11,
+        "description": "h",
+        "amount": 20.0,
+        "date": "2025-04-17",
+        "category": null
+    }
+]
